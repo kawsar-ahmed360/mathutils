@@ -1,0 +1,20 @@
+{
+  "name": "yourgithubusername/mathutils",
+  "description": "A simple math utility package for Laravel",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "YourName\\MathUtils\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "YourName\\MathUtils\\MathUtilsServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
