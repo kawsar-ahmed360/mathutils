@@ -16,5 +16,9 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "require": {
+    "laravel/framework": "^10.48",
+    "illuminate/support": "*"
+  }
 }

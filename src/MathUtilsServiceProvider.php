@@ -1,6 +1,6 @@
 <?php
 
-namespace YourName\MathUtils;
+namespace KawsarAhmed\MathUtils;
 
 use Illuminate\Support\ServiceProvider;
 
