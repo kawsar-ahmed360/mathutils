@@ -11,7 +11,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "YourName\\MathUtils\\MathUtilsServiceProvider"
+        "kawsar-ahmed360\\MathUtils\\MathUtilsServiceProvider"
       ]
     }
   },
