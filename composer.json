@@ -18,7 +18,6 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "laravel/framework": "^10.48",
-    "illuminate/support": "*"
+    "laravel/framework": "^10.48"
   }
 }

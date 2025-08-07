@@ -3,7 +3,7 @@
         'name' => 'kawsar-ahmed360/mathutils',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '5a84defaf0236563d05ff77364536ff3b58be765',
+        'reference' => '2125173d1224b833c2f9926b558688e054c6f1f6',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -301,7 +301,7 @@
         'kawsar-ahmed360/mathutils' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '5a84defaf0236563d05ff77364536ff3b58be765',
+            'reference' => '2125173d1224b833c2f9926b558688e054c6f1f6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
