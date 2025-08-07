@@ -5,13 +5,13 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "YourName\\MathUtils\\": "src/"
+      "KawsarAhmed\\MathUtils\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "kawsar-ahmed360\\MathUtils\\MathUtilsServiceProvider"
+        "KawsarAhmed\\MathUtils\\MathUtilsServiceProvider"
       ]
     }
   },
